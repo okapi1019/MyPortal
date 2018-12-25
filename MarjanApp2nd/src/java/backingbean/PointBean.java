@@ -16,7 +16,7 @@ import javax.enterprise.context.RequestScoped;
 @RequestScoped
 public class PointBean {
 
-    private 
+    //一旦計画を中止する 
     /**
      * Creates a new instance of PointBean
      */
